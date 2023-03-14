@@ -10,6 +10,7 @@ html {
 
 body {
   display: flex;
+  flex-direction: column;
   background-color: #4ecdc4;
 }
 
@@ -47,3 +48,4 @@ body {
 .alarm--ring {
   animation: ring 100ms 50;
 }
+
